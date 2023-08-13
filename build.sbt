@@ -1,6 +1,8 @@
 import Dependencies.*
 
 ThisBuild / scalaVersion := "3.3.0"
+ThisBuild/ organization := "com.khanr1"
+ThisBuild/ organizationName := "khanr1"
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
 
