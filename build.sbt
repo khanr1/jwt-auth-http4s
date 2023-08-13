@@ -1,6 +1,6 @@
 import Dependencies.*
 
-ThisBuild / scalaVersion := "3.1.1"
+ThisBuild / scalaVersion := "3.3.0"
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
 
